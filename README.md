@@ -2,6 +2,8 @@
 
 https://suraj3101.github.io/Parallax_WebPage_Project/
 
+https://parallexwebpage.netlify.app
+
 ![1](https://github.com/suraj3101/Parallax_WebPage_Project/assets/77961585/f42318ab-fea1-4f69-89bc-009a0d5581a6)
 
 
